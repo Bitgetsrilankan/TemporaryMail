@@ -6,8 +6,8 @@ import json
 import os
 
 app = Flask(__name__)
-bot = telebot.TeleBot('YOUR_BOT_TOKEN')
-admin = "OWNER USED ID"
+bot = telebot.TeleBot('7874541140:AAFPSHDA77G0LBtGb3fS989cDZLNLvehAWg')
+admin = "1481322134"
 
 # MADE BY NEP CODER @DEVSNP
 def file_exists(file_path):
